@@ -22,6 +22,5 @@ public class No10871 {
             }
         }
         System.out.println(sb);
-
     }
 }
