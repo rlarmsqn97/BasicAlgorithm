@@ -27,6 +27,5 @@ public class No8958 {
             cnt = 0;
         }
         System.out.println(sb);
-
     }
 }
