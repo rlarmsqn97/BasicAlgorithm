@@ -19,6 +19,5 @@ public class No10809 {
         for(int v : arr) {
             System.out.print(v + " ");
         }
-
     }
 }
